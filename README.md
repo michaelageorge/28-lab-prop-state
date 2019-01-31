@@ -1,3 +1,6 @@
+![CF](http://i.imgur.com/7v5ASc8.png) LAB
+=================================================
+
 ## 28 - Prop and State
 
 ### Author: Michael George, Code 401d28
@@ -24,9 +27,9 @@
 * In the 'Modularized' files, all of the code from the 'Non-Modularized' file has been properly modularized. It functions the same, and each part of the 'Non-Modularized' file has been broken down into much smaller components.
 
 ### UML Diagrams for Modularized Code
-* ![Pro Practice](#) 
-* ![Internal State](#) 
-* ![External State](#) 
+* [Pro Practice](assets/#) 
+* [Internal State](assets/#) 
+* [External State](assets/#) 
 
 ### Assistance/Credit
 * John DiQuattro
